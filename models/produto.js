@@ -1,6 +1,4 @@
 const { DataTypes } = require('sequelize');
-const tableUser = require('./user.js');
-const Sequelize =  require('sequelize')
 
 const tableProduto = {
     name: 'Produto',
